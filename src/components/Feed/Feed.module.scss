@@ -3,7 +3,7 @@
 
 .feed {
   &__item {
-    @include margin-bottom(1.25);
+    @include margin-bottom(1.5);
 
     &:last-child {
       @include margin-bottom(.5);
@@ -36,6 +36,7 @@
 
     &-meta {
       &-time {
+        font-family: $standard-font-family;
         font-size: $typographic-small-font-size;
         color: $color-base;
         font-weight: 600;
@@ -48,6 +49,7 @@
 
       &-category {
         &-link {
+          font-family: $standard-font-family;
           font-size: $typographic-small-font-size;
           color: $color-secondary;
           font-weight: 600;
@@ -65,6 +67,7 @@
     }
 
     &-readmore {
+
       font-size: $typographic-base-font-size;
       color: $color-primary;
 
