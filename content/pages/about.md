@@ -3,10 +3,10 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+![Danny](/media/profile-large-low-res.jpg)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Danny is a plant-based frontend developer & marketer who enjoys making things. He currently works for @Rentivo — building software-as-a-service tools for large short-term rental businesses.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Before Rentivo, Danny co-founded Washbox, an on-demand laundry app which graduated from the [@Ignite](https://www.ignite.io/) accelerator programme in 2014. Washbox was later [acquired by Laundrapp](https://techcrunch.com/2015/07/10/shrinking-the-competition/).
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Danny has a degree in Business Studies from Bristol University. When he's not working, he enjoys bullet chess tournaments, walking the dog and thinking of big ideas. He's interested in philosophy, environmental science, open source software, blockchain technology & health.
