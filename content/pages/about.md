@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+slug: "/about"
 ---
 
 ![Danny](/media/profile-large-low-res.jpg)
