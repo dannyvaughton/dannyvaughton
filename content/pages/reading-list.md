@@ -37,6 +37,7 @@ slug: "/reading"
 ### Pyschology
 
 [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814) — Dale Carnegie<br>
+[Stumbling on Happiness](https://www.amazon.co.uk/Stumbling-Happiness-P-S-Daniel-Gilbert/dp/0007183135) — Daniel Gilbert<br>
 [The Subtle Art of Not Giving a F*ck](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/) — Mark Manson<br>
 [Influence: The Psychology of Persuasion](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X) — Robert B Cialdini<br>
 [Men Are from Mars, Women Are from Venus](https://www.amazon.co.uk/Mars-Women-Venus-Communication-Relationships/dp/0007152590) — John Gray<br>
