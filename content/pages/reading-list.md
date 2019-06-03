@@ -24,7 +24,8 @@ slug: "/reading"
 [The Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602) — Eric Ries<br>
 [Zero to One](https://www.amazon.co.uk/Zero-One-Notes-Start-Future/dp/0753555204) — Peter Thiel<br>
 [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/) — Andrew Grove<br>
-[The Mom Test](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742) — Rob Fitzpatrick
+[The Mom Test](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742) — Rob Fitzpatrick<br>
+[Shoe Dog](https://www.amazon.co.uk/Shoe-Dog-Memoir-Creator-NIKE/dp/1471146707) — Phil Knight
 
 ###  Numbers & Finance
 
