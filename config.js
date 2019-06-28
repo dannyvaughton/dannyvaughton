@@ -14,12 +14,16 @@ module.exports = {
       path: '/'
     },
     {
-        label: '📚 Reading List',
-        path: '/reading'
+      label: '📚 Reading List',
+      path: '/reading'
     },
     {
       label: '🤓 About me',
       path: '/about'
+    },
+    {
+      label: '‍💻 Work',
+      path: '/work'
     }
   ],
   author: {
